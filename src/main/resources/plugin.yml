@@ -1,0 +1,5 @@
+name: DAuth
+main: kr.hs.dgsw.PluginMain
+version: 1.0
+
+depend: [ProtocolLib]
